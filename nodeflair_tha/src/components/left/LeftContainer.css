@@ -186,8 +186,8 @@
     }
 
     .divider {
-        width: 90%; /* Reduce the fixed width */
-        margin: 5px auto; /* Center it */
+        width: 90%;
+        margin: 5px auto; 
     }
 
     .imageStyle {

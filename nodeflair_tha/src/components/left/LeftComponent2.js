@@ -20,7 +20,7 @@ function LeftComponent2(props) {
                         <p className="textStyle company"> {props.company} </p>
                         <p className="textStyle jobPosition"> {props.role} </p>
                     </div>
-                    <div className="buttonDesixgn">
+                    <div className="buttonDesign">
                         <p className="textStyle buttonTextStyle"> {props.type} </p>
                     </div>
                 </div>   
