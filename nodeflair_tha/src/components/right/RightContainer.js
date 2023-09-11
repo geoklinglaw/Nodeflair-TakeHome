@@ -5,7 +5,7 @@ import "../../App.css"
 function RightContainer() {
     return (
         <div className="RightContainer">
-                <h1 id="jobTitle"></h1>
+                <h1 id="jobTitle"> Job Title </h1>
         </div>
     );
 }
