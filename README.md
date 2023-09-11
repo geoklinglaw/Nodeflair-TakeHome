@@ -5,5 +5,5 @@
 
 
 ### Mobile version
-![image](https://github.com/geoklinglaw/Nodeflair-TakeHome/assets/72530233/26f7f2e6-8c48-45aa-9dc8-3781634c393c | width=200) 
+![image](https://github.com/geoklinglaw/Nodeflair-TakeHome/assets/72530233/26f7f2e6-8c48-45aa-9dc8-3781634c393c) 
 
