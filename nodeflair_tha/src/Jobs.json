@@ -10,7 +10,7 @@
       "Techstack": ["AngularJS","HTML","Javascript","React"],
       "Seniority": [1, 2],
       "Experience": [1, 3],
-      "Image": "https://nodeflair.com/companies/14545.png"
+      "Image": "https://lumoshive.com/assets/logo/lumosh.png"
     },
     {
       "Company": "Lumoshive",
@@ -23,7 +23,7 @@
       "Techstack": ["AngularJS","HTML","Javascript","React"],
       "Seniority": [1, 2],
       "Experience": [1, 3],
-      "Image": "https://nodeflair.com/companies/14545.png"
+      "Image": "https://lumoshive.com/assets/logo/lumosh.png"
     },
     {
       "Company": "Qiscus",
@@ -36,7 +36,7 @@
       "Techstack": ["HTML","Ruby","Javascript","Laravel"],
       "Seniority": [0],
       "Experience": [0,1],
-      "Image": "https://nodeflair.com/companies/7295.png"
+      "Image": "https://media.licdn.com/dms/image/C510BAQFjaULATkW3cw/company-logo_200_200/0/1574934667563?e=2147483647&v=beta&t=LFeKzEFamBPsJ8soqyWy0OWs9WW-jmBnveECcFrnH30"
     },
     {
       "Company": "Smart Communications",
@@ -49,7 +49,7 @@
       "Techstack": ["Analytics","Matplotlib","D3","Hive","SQL"],
       "Seniority": [1],
       "Experience": [2,100],
-      "Image": "https://nodeflair.com/companies/14320.png"
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQofrA0cakweYsts1LelL_uAmUg3nCkj7PROg&usqp=CAU"
       
     },
     {
@@ -63,7 +63,7 @@
       "Techstack": ["EC2","AWS","Grafana","Splunk","Ansible"],
       "Seniority": [2],
       "Experience": [5,100],
-      "Image": "https://nodeflair.com/companies/4605.png"
+      "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Financial_Times_corporate_logo_%28no_background%29.svg/1200px-Financial_Times_corporate_logo_%28no_background%29.svg.png"
       
     }
   ]
