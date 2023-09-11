@@ -1,0 +1,70 @@
+[
+    {
+      "Company": "Lumoshive",
+      "Role": "Frontend Developer",
+      "PostDate": "less than a minute ago",
+      "Country": "Indonesia",
+      "Salary": "Rp 5.000.000 – Rp 7.000.000 / Monthly",
+      "JobType": "NULL",
+      "Type": "Frontend",
+      "Techstack": ["AngularJS","HTML","Javascript","React"],
+      "Seniority": [1, 2],
+      "Experience": [1, 3],
+      "Image": "https://nodeflair.com/companies/14545.png"
+    },
+    {
+      "Company": "Lumoshive",
+      "Role": "Full Stack Developer",
+      "PostDate": "37 minutes ago",
+      "Country": "Indonesia",
+      "Salary": "Rp 7.000.000 - Rp 8.000.000 / Monthly",
+      "JobType": "NULL",
+      "Type": "Fullstack",
+      "Techstack": ["AngularJS","HTML","Javascript","React"],
+      "Seniority": [1, 2],
+      "Experience": [1, 3],
+      "Image": "https://nodeflair.com/companies/14545.png"
+    },
+    {
+      "Company": "Qiscus",
+      "Role": "Backend Engineer Intern",
+      "PostDate": "1 day ago",
+      "Country": "Indonesia",
+      "Salary": "Rp 2.000.000 - Rp 2.000.000 / Monthly",
+      "JobType": "NULL",
+      "Type": "Backend",
+      "Techstack": ["HTML","Ruby","Javascript","Laravel"],
+      "Seniority": [0],
+      "Experience": [0,1],
+      "Image": "https://nodeflair.com/companies/7295.png"
+    },
+    {
+      "Company": "Smart Communications",
+      "Role": "Data Scientist",
+      "PostDate": "1 day ago",
+      "Country": "Philippines",
+      "Salary": "NULL",
+      "JobType": "Permanent",
+      "Type": "Data Sci",
+      "Techstack": ["Analytics","Matplotlib","D3","Hive","SQL"],
+      "Seniority": [1],
+      "Experience": [2,100],
+      "Image": "https://nodeflair.com/companies/14320.png"
+      
+    },
+    {
+      "Company": "Financial Times",
+      "Role": "Network Engineer",
+      "PostDate": "1 day ago",
+      "Country": "Philippines",
+      "Salary": "NULL",
+      "JobType": "Permanent",
+      "Type": "SysOps",
+      "Techstack": ["EC2","AWS","Grafana","Splunk","Ansible"],
+      "Seniority": [2],
+      "Experience": [5,100],
+      "Image": "https://nodeflair.com/companies/4605.png"
+      
+    }
+  ]
+  

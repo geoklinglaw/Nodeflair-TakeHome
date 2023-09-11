@@ -1,0 +1,20 @@
+
+.BigRightContainer {
+  width: '1000px';      
+  height: '1030px';     
+  overflow-y: 'scroll';
+  overflow-x: 'hidden';  
+  background: '#F3F2EF';
+  border-radius: '8px';
+}
+
+.RightContainer {
+  margin-left: '20px';
+  padding: '29px 20px';
+  font-size: '14px';
+  box-shadow: '0px 0px 2px rgba(0, 0, 0, 0.25)';
+  border-radius: '8px';
+  background-color: '#ffffff';
+  width: '1000px';
+  height: '1200px'; 
+}
